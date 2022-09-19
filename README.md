@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a couple non-profit projects](https://github.com/trellistk)
 
-- 🌱 I’m currently learning **C# and .NET**
+- 🌱 I’m currently learning **C#, .NET, and Angular**
 
 - 👯 I’m looking to collaborate on **fun open source projects**
 
