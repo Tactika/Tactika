@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [a couple non-profit projects](https://github.com/trellistk)
 
-- 🌱 I’m currently learning **ReactJS, NextJS**
+- 🌱 I’m currently learning **C# and .NET**
 
-- 👯 I’m looking to collaborate on **a complete serverless web application**
+- 👯 I’m looking to collaborate on **fun open source projects**
 
 - 🤝 I’m looking for help with [finding my next adventure](https://richcreek.dev)
 
