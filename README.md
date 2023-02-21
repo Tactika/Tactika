@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [a couple non-profit projects](https://github.com/trellistk)
 
-- 🌱 I’m currently learning about Zod TypeScript Schemas
+- 🌱 I’m currently learning about [Zod TypeScript Schemas](https://zod.dev/)
 
 - 👯 I’m looking to collaborate on **fun open source projects**
 
-- 🤝 I’m looking for help with [finding my next adventure](https://richcreek.dev)
+- 🤝 I’m looking to network and learn what I can, where I can
 
 - 👨‍💻 Some of my projects are available for viewing at [https://www.richcreek.dev](https://www.richcreek.dev)
 
