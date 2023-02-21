@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [a couple non-profit projects](https://github.com/trellistk)
 
-- 🌱 I’m currently learning **C#, .NET, and Angular**
+- 🌱 I’m currently learning about Zod TypeScript Schemas
 
 - 👯 I’m looking to collaborate on **fun open source projects**
 
 - 🤝 I’m looking for help with [finding my next adventure](https://richcreek.dev)
 
-- 👨‍💻 All of my projects are available at [https://www.richcreek.dev](https://www.richcreek.dev)
+- 👨‍💻 Some of my projects are available for viewing at [https://www.richcreek.dev](https://www.richcreek.dev)
 
 - 💬 Ask me about **anything!**
 
@@ -26,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/richcreek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="richcreek" height="30" width="40" /></a>
-<a href="https://twitter.com/etactix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="etactix" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/drichcreek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drichcreek" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5742102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5742102" height="30" width="40" /></a>
 <a href="https://fb.com/richcreekdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richcreekdj" height="30" width="40" /></a>
